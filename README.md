@@ -19,7 +19,7 @@
   <a href="https://t.me/barkhatovandrew">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="40">
   </a>
-  <a href="https://instagram.com/barkhatovandrey">
+  <a href="https://instagram.com/andrew_barkhatov">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="40">
   </a>
   <a href="https://wa.me/79648482479">
