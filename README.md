@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-### My contacts
+<h2>My contacts</h2>
 
 <div style="display: flex">
   <a href="https://t.me/barkhatovandrew">
