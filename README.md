@@ -1,7 +1,5 @@
 # My technology stack
 
-
-
 <div style="display: flex; justify-content: space-between">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="40">
@@ -16,11 +14,12 @@
 
 <hr>
 # My contacts
+
 <div style="display: flex">
   <a href="https://t.me/barkhatovandrew">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="40">
   </a>
-  <a href="https://instagram.com/barkhatovandrew">
+  <a href="https://instagram.com/barkhatovandrey">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="40">
   </a>
   <a href="https://wa.me/79648482479">
