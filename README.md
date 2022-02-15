@@ -13,12 +13,12 @@
 </div>
 
 <h2>My hobbies</h2>
-💻 Programming
-🏂 Snowboard
-🎾 Tennis
-⚫️ Go
-⛵️ Yachting
-🎮 Video Games
+<p>💻 Programming</p>
+<p>🏂 Snowboard</p>
+<p>🎾 Tennis</p>
+<p>⚫️ Go</p>
+<p>⛵️ Yachting</p>
+<p>🎮 Video Games</p>
 
 <hr>
 <h2>My contacts</h2>
