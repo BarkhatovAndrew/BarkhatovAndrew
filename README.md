@@ -12,6 +12,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="40">
 </div>
 
+<h2>My hobbies</h2>
+💻 Programming
+🏂 Snowboard
+🎾 Tennis
+⚫️ Go
+⛵️ Yachting
+🎮 Video Games
+
 <hr>
 <h2>My contacts</h2>
 
