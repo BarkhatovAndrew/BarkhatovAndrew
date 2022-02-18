@@ -19,7 +19,7 @@
 <p>⚫️ Go</p>
 <p>⛵️ Yachting</p>
 <p>🎮 Video Games</p>
-
+ 
 <hr>
 <h2>My contacts</h2>
 
