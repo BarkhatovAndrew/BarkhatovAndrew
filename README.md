@@ -11,7 +11,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="40">
 </div>
- 
+
 <h2>My hobbies</h2>
 <p>💻 Programming</p>
 <p>🏂 Snowboard</p>
