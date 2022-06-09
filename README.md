@@ -8,13 +8,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="40">
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40">
   <img src="https://avatars.githubusercontent.com/u/32424830?s=280&v=4" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="40"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="40">
+  <img src="https://www.christophermallory.com/wp-content/uploads/2018/01/mongodb.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="40">
   <img src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" height="40">
-  <img src="https://www.christophermallory.com/wp-content/uploads/2018/01/mongodb.png" height="40">
 
 </div>
 
