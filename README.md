@@ -14,6 +14,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="40">
   <img src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" height="40">
+  <img src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg" height="40">
 
 </div>
 
