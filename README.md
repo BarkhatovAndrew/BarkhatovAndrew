@@ -22,6 +22,7 @@
 <p>💻 Programming</p>
 <p>🏂 Snowboard</p>
 <p>🎾 Tennis</p>
+<p>📈 Investment & Trading</p>
 <p>⚫️ Go</p>
 <p>⛵️ Yachting</p>
 <p>🎮 Video Games</p>
