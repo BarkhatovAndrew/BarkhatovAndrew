@@ -8,6 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="40"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="40"> 
   
+  Really into programming. Use a lot other technologies f.e. Redux, RTK, Zustand, MUI, Tailwind, Git, Strapi, GraphQL, SWR, WebSocket, Supabase, SQL and so on.
 
 </div>
 
